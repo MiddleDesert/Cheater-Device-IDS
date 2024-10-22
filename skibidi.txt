@@ -1,2 +1,2 @@
-Example:123abc456def Example:123.123.123.123
-Example:123abc456def Example:123.123.123.123
+Example:123abc456def
+Example:123abc456def
